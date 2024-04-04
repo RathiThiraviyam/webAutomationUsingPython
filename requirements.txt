@@ -1,0 +1,10 @@
+actionsBy==1.0.1
+allure-pytest==2.13.2
+allure-python-commons==2.13.5
+allure_behave==2.13.5
+pytest==7.4.3
+behave==1.2.6
+PyYAML==6.0.1
+selenium==4.13.0
+pip~=23.3.1
+openpyxl~=3.1.2
